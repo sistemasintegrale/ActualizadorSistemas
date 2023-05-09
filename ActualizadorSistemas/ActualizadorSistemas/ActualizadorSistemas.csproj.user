@@ -4,7 +4,10 @@
     <_LastSelectedProfileId>D:\ActualizadorSistemas\ActualizadorSistemas\ActualizadorSistemas\Properties\PublishProfiles\ClickOnceProfile.pubxml</_LastSelectedProfileId>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Update="Form1.cs">
+    <Compile Update="FrmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmPasos.cs">
       <SubType>Form</SubType>
     </Compile>
   </ItemGroup>
