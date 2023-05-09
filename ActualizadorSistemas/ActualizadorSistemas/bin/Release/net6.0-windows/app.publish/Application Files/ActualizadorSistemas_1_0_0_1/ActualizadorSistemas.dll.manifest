@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
-  <asmv1:assemblyIdentity name="ActualizadorSistemas.exe" version="1.0.0.0" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
+  <asmv1:assemblyIdentity name="ActualizadorSistemas.exe" version="1.0.0.1" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
   <application />
   <entryPoint>
     <assemblyIdentity name="Launcher" version="7.0.0.0" language="neutral" processorArchitecture="msil" />
@@ -62,22 +62,22 @@
       <dsig:DigestValue>hg6JwkFJOXmwddWB/Mc1aXiGF4tXWiAmPxwT749GUc4=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="ActualizadorSistemas.dll" size="5632">
+  <file name="ActualizadorSistemas.dll" size="5120">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>yq4DW1bRkJ4NJaHrpnAv32fWrERur/pcYmJJvVE9K2o=</dsig:DigestValue>
+      <dsig:DigestValue>OlqqKlkHI8tk+PrAhfM8GrFSlasyGYp3vmsE49QUPFo=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="ActualizadorSistemas.exe" size="147968">
+  <file name="ActualizadorSistemas.exe" size="147456">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>IWgN0e3NdscQL3BdBLzT96NgpCyn9y54bpyPHUNeUCc=</dsig:DigestValue>
+      <dsig:DigestValue>jXCDXG1d3sfB/xMnbdt/Qr0giWgc7DQzDIx5iTt0lbc=</dsig:DigestValue>
     </hash>
   </file>
   <file name="ActualizadorSistemas.runtimeconfig.json" size="372">
