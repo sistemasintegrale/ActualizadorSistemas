@@ -1,0 +1,5 @@
+D:\ActualizadorSistemas\ActualizadorSistemas\ActualizadorSistemas\bin\Release\net6.0-windows\app.publish\ActualizadorSistemas.exe
+D:\ActualizadorSistemas\ActualizadorSistemas\ActualizadorSistemas\bin\Release\net6.0-windows\app.publish\ActualizadorSistemas.dll
+D:\ActualizadorSistemas\ActualizadorSistemas\ActualizadorSistemas\bin\Release\net6.0-windows\app.publish\ActualizadorSistemas.deps.json
+D:\ActualizadorSistemas\ActualizadorSistemas\ActualizadorSistemas\bin\Release\net6.0-windows\app.publish\ActualizadorSistemas.runtimeconfig.json
+D:\ActualizadorSistemas\ActualizadorSistemas\ActualizadorSistemas\bin\Release\net6.0-windows\app.publish\ActualizadorSistemas.pdb
